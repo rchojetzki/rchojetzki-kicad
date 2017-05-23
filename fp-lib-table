@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name rchojetzki-pressure-sensor-board)(type KiCad)(uri F:/Richard/dev/viper/elektronik_repo/rexus-viper-elektronik/boards/pressure-sensor/rchojetzki-pressure-sensor-board.pretty)(options "")(descr ""))
+  (lib (name LOCALE-rchojetzki-kicad-footprint-lib)(type KiCad)(uri "$(KIPRJMOD)/rchojetzki-kicad-footprint-lib.pretty")(options "")(descr ""))
+  (lib (name rchojetzki-temp-board-footprint-lib)(type KiCad)(uri F:/Richard/dev/viper/elektronik_repo/rexus-viper-elektronik/boards/temperature-sensor/rchojetzki-temp-board-footprint-lib.pretty)(options "")(descr ""))
+  (lib (name rchojetzki-optical-distance)(type KiCad)(uri F:/Richard/dev/viper/elektronik_repo/rexus-viper-elektronik/boards/optical-distance/rchojetzki-optical-distance.pretty)(options "")(descr ""))
+)
