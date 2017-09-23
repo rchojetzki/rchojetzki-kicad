@@ -1,4 +1,4 @@
-update=23/05/2017 18:28:30
+update=23/05/2017 19:24:22
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,7 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=rchojetzki-eeschema-lib/optical-distance
-LibName31=rchojetzki-eeschema-lib/rchojetzki-pressure-sensor-board
-LibName32=rchojetzki-eeschema-lib/rchojetzki-viper-temp-board
-LibName33=rchojetzki-eeschema-lib/rchojetzki-eeschema
+LibName30=rchojetzki-eeschema-lib/rchojetzki-eeschema
